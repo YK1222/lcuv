@@ -1,0 +1,48 @@
+Control-301.tsv	Control-301
+GB-001-301.tsv	GB-001
+GB-002-301.tsv	GB-002
+GB-003-301.tsv	GB-003
+GB-004-301.tsv	GB-004
+
+Control-301.tsv	Control-301
+GB-005-301.tsv	GB-005
+GB-006-301.tsv	GB-006
+GB-007-301.tsv	GB-007
+GB-008-301.tsv	GB-008
+
+Control-60.tsv	Control-60
+GB-001-60.tsv	GB-001
+GB-002-60.tsv	GB-002
+GB-003-60.tsv	GB-003
+GB-004-60.tsv	GB-004
+
+Control-60.tsv	Control-60
+GB-005-60.tsv	GB-005
+GB-006-60.tsv	GB-006
+GB-007-60.tsv	GB-007
+GB-008-60.tsv	GB-008
+
+Control-65.tsv	Control-65
+GB-001-65.tsv	GB-001
+GB-002-65.tsv	GB-002
+GB-003-65.tsv	GB-003
+GB-004-65.tsv	GB-004
+
+Control-65.tsv	Control-65
+GB-005-65.tsv	GB-005
+GB-006-65.tsv	GB-006
+GB-007-65.tsv	GB-007
+GB-008-65.tsv	GB-008
+
+Control-B10.tsv	Control-B10
+GB-001-B10.tsv	GB-001
+GB-002-B10.tsv	GB-002
+GB-003-B10.tsv	GB-003
+GB-004-B10.tsv	GB-004
+
+Control-B10.tsv	Control-B10
+GB-005-B10.tsv	GB-005
+GB-006-B10.tsv	GB-006
+GB-007-B10.tsv	GB-007
+GB-008-B10.tsv	GB-008
+
